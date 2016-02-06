@@ -53,3 +53,11 @@ docs/_build/
 
 # Sublime Text files
 *.sublime-*
+
+*.pyc
+
+*.sqlite3
+
+*.sqlite3
+
+*.pyc
